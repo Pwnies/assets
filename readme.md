@@ -9,3 +9,6 @@ Her deles Pwnies grafiske assets m.m
 
 ## Logo (mørk baggrund)
 ![pwnies_logo_sort.png](pwnies_logo_sort.png)
+
+## Small Logo (alpha baggrund)
+![pwnies_logo_small.png](pwnies_logo_small.png)
